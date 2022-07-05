@@ -1,2 +1,2 @@
-# corsera-test
-coursera test repository
+# machine learning
+machine learning repository
